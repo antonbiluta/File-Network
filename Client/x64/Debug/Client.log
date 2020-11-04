@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\mrsli\source\repos\CompNet\Server\Functions\Func.h(20,18): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\CompNet\Server\Functions\Func.h(13): warning C4715: Find_Split: значение возвращается не при всех путях выполнения
+  Client.vcxproj -> C:\Users\mrsli\source\repos\CompNet\Server\x64\Debug\Client.exe
